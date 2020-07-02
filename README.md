@@ -1,8 +1,9 @@
 # MyProyectoAngular
 
-Proyecto de ejemplo de Angular con el objetivo de crear una aplicación con  subaplicaciones 
+Proyecto de ejemplo de Angular con el objetivo de crear una aplicación con  subaplicaciones y libreria para el uso común de las subaplicaciones.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
+
+Version [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
 ## Development server
 
